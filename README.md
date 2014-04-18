@@ -1,6 +1,8 @@
 Getting and Cleaning Data Project
 ===========
-The script already contains comments explaining each steps. Here lists some main steps:  
+The script already contains comments explaining each step.  
+Here lists some main steps:  
+  
 1. Load data sets into R.  
 2. Find feature names with mean() and std(), and extract columns from both train and test dataset.  
 3. Add subject id and activity id to both train and test datasets.  
